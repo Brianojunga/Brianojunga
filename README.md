@@ -10,7 +10,7 @@ I love tackling complex problems, learning new skills, and collaborating with di
 - 🌱 Currently learning: **AWS Cloud Computing & Data Science at ALX**
 - 🔭 Working on: **Building full-stack projects and exploring AI + cloud integration**
 - 🌍 Languages: **JavaScript, Python, TypeScript, SQL**
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **brianojunga3@gmail.com**
 - ⚡ Fun fact: I’m an industrial chemist turned software developer who loves music 🎶
 
 ## My Skills 🧠
