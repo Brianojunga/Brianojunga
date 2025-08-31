@@ -7,7 +7,7 @@
 I'm a passionate **Full-Stack Developer & Cloud Enthusiast** with experience in **JavaScript, React, Node.js, SQL, and Prisma**.  
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **AWS Cloud Computing & Data Science at ALX**
+- 🌱 Currently learning: **Backend development, AWS Cloud Computing & Data Science at ALX**
 - 🔭 Working on: **Building full-stack projects and exploring AI + cloud integration**
 - 🌍 Languages: **JavaScript, Python, TypeScript, SQL**
 - 📫 How to reach me: **brianojunga3@gmail.com**
